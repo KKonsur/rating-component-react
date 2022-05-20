@@ -1,0 +1,10 @@
+.Star {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 40px;
+   height: 40px;
+   background-color: hsl(213, 20%, 24%);
+   border-radius: 50%;
+   margin-bottom: 20px;
+}

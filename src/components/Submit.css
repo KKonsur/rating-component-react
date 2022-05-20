@@ -1,0 +1,16 @@
+.Submit {
+   background-color: #fb7413;
+   padding: 10px;
+   border: none;
+   color: #fff;
+   text-transform: uppercase;
+   font-weight: 600;
+   letter-spacing: 5px;
+   border-radius: 20px;
+   cursor: pointer;
+   transition: 0.1s;
+}
+.Submit:hover {
+   color: #fb7413;
+   background-color: #fff;
+}

@@ -1,0 +1,23 @@
+.ThankYouBox {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+.ThankYouBox__result {
+   color: #fb7413;
+   background-color: hsl(213, 20%, 24%);
+   padding: 10px;
+   border-radius: 20px;
+   margin-top: 20px;
+   margin-bottom: 30px;
+}
+
+.ThankYouBox__mainText {
+   margin-bottom: 10px;
+}
+
+.ThankYouBox__paragraph {
+   color: #959eac;
+   text-align: center;
+}
